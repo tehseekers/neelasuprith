@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Suprith and Neela//Wedding//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:suprith-neela-wedding-2026@wedding.local
+DTSTAMP:20261030T000000Z
+DTSTART:20261122T040000Z
+DTEND:20261122T044500Z
+SUMMARY:Suprith & Neela - Wedding
+LOCATION:Samskruthi Gokula Convention Center - J.P. Nagar - Bengaluru 560078
+DESCRIPTION:Muhurtham 9:30 am to 10:15 am IST. Dhanusu Lagna.
+END:VEVENT
+END:VCALENDAR

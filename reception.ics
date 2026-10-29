@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Suprith and Neela//Wedding//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:suprith-neela-reception-2026@wedding.local
+DTSTAMP:20261030T000000Z
+DTSTART:20261209T063000Z
+SUMMARY:Suprith & Neela - Reception and Beegara Oota
+LOCATION:Sri Ranganatha Kalyana Mantapa - Bannerghatta - Bengaluru 560083
+DESCRIPTION:12:00 noon onwards IST. End time is not specified.
+END:VEVENT
+END:VCALENDAR
