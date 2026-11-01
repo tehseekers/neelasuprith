@@ -1,0 +1,18 @@
+{
+  "name": "suprith-neela-wishes",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-11-01",
+  "workers_dev": true,
+  "vars": { "ALLOWED_ORIGINS": "https://tehseekers.github.io" },
+  "d1_databases": [{
+    "binding": "DB",
+    "database_name": "wedding-wishes",
+    "database_id": "a0867819-f8c2-4f01-88e3-4c63a60916d6",
+    "migrations_dir": "migrations"
+  }],
+  "ratelimits": [{
+    "name": "WISH_LIMITER",
+    "namespace_id": "1001",
+    "simple": { "limit": 3, "period": 60 }
+  }]
+}
