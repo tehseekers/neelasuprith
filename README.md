@@ -1,4 +1,4 @@
-# Suprith & Neela — a wedding keepsake
+# Neela & Suprith — a wedding keepsake
 
 A responsive, buildless static website for GitHub Pages and a custom domain. Wedding and reception details are transcribed from the two supplied invitations. Artwork is extracted from the supplied wedding invitation. Three supplied couple photographs are included locally. No invented stories or guest wishes are included. The redundant Instagram screenshot is not published. Confirm permission to publish the supplied artwork. Home addresses and personal phone numbers are deliberately omitted from the public page.
 
